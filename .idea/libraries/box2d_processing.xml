@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="box2d_processing">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/box2d_processing.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jbox2d-library-2.2.1-ds.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jna-4.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jna-platform-4.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/VideoExport.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
