@@ -24,7 +24,7 @@
     <dependency>
         <groupId>org.processing</groupId>
         <artifactId>core</artifactId>
-        <version>3.3.5</version>
+        <version>3.3.7</version>
     </dependency>
     <!-- https://mvnrepository.com/artifact/org.processing/processing-complete -->
     <!--<dependency>-->
